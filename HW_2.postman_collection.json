@@ -18,7 +18,7 @@
 							"});\r",
 							"//Проверить, что в body приходит правильный string.\r",
 							"pm.test(\"Body is correct\", function () {\r",
-							"    pm.response.to.have.body\r",
+							"    pm.response.to.have.body(\"This is the first responce from server!ss\")\r",
 							"})"
 						],
 						"type": "text/javascript"
