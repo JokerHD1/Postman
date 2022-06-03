@@ -11,7 +11,7 @@
  </details>
 
 <details>
- <summary><h>HW2</h>(/summary>
+ <summary><h>HW2</h>(/summary)
 <pre>http://162.55.220.72:5005/first</pre>
 <pre>1. Отправить запрос.</pre>
 <pre>2. Статус код 200</pre>
